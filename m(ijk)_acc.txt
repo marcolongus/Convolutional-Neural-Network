@@ -1,0 +1,10 @@
+'M(Red 1, ADAM, CEL)' 89
+'M(Red 1, ADAM, MSE)' 87 
+'M(Red 1, SGD, CEL)' 87
+'M(Red 1, SGD, MSE)' 81
+
+
+'M(Red 2, ADAM, CEL)' 91
+'M(Red 2, ADAM, MSE)' 90
+'M(Red 2, SGD, CEL)' 82
+'M(Red 2, SGD, MSE)' 79
